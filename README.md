@@ -13,7 +13,6 @@ Keep track of your packing progress with dynamic statistics.
 Clear your list when you're all set and ready to go.
 Get ready to travel stress-free with the "Far Away Travel Packing List" application. No more worrying about forgetting important items. Pack efficiently and enjoy your trips with confidence! 🚀
 
-Feel free to customize this description to suit your project's specifics and your personal style.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
